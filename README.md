@@ -1,4 +1,4 @@
-# consumindo_api_vue
+# Consumindo uma API utilizando VueJS
 
 Objetivo :rocket: : Exibir o valor atual do bitcoin em moedas de paises distintos baseado no site https://www.coindesk.com/coindesk-api.<br><br>
 
